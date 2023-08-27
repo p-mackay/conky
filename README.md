@@ -1,6 +1,5 @@
 ### installation and setup for ArchLinux (manjaro)
 - install the package **aur/conky-lua-nv**
-- install the package **extra/conky-manager**
 
  config files in ~/.config/conky
 
